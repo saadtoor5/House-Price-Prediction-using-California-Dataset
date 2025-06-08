@@ -50,7 +50,7 @@ House-Price-Prediction-California/
 
 ```bash
 clone https://github.com/saadtoor5/House-Price-Prediction-using-California-Dataset.git
-cd California-Housing-Price-Prediction
+cd House-Price-Prediction-using-California-Dataset
 ```
 
 2. **Install Dependencies**
