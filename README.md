@@ -35,7 +35,7 @@ This project demonstrates how to train and evaluate a **Linear Regression** mode
 ## 📁 Project Structure
 
 ```
-House-Price-Prediction-California/
+House-Price-Prediction-using-California-Dataset/
 ├── california_housing_model.py      # Main script
 ├── README.md                        # Project overview
 ├── LICENSE                          # MIT License
