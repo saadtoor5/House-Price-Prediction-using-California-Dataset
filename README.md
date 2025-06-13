@@ -49,7 +49,7 @@ House-Price-Prediction-using-California-Dataset/
 1. **Clone the Repository**
 
 ```bash
-clone https://github.com/saadtoor5/House-Price-Prediction-using-California-Dataset.git
+clone https://github.com/saadtoorx/House-Price-Prediction-using-California-Dataset.git
 cd House-Price-Prediction-using-California-Dataset
 ```
 
@@ -82,12 +82,12 @@ R2 Score: 0.6094
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE) - 2025 © saadtoor5
+This project is licensed under the [MIT License](LICENSE) - 2025 © saadtoorx
 
 ---
 
 ## 👤 Author
 
-Made with ❤️ by [@saadtoor5](https://github.com/saadtoor5)
+Made with ❤️ by [@saadtoorx](https://github.com/saadtoorx)
 
 Feel free to fork, explore, or contribute!
